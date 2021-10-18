@@ -1,0 +1,22 @@
+/* TEAM */
+	
+	Manager : Benoit Flicoteaux	
+	Contact: contact [at] wikiwater.fr
+	Linkedin : https://www.linkedin.com/in/benoit-flicoteaux-9b10b3175/ 
+	From:Saint-Witz, Ile de France, France
+	
+	Chef de projet : Benoit Flicoteaux
+	Contact: contact [at] wikiwater.fr
+	Linkedin : https://www.linkedin.com/in/benoit-flicoteaux-9b10b3175/
+	From:Saint-Witz, Ile de France, France
+
+	UI developer: Benoit Flicoteaux
+	Contact: contact [at] wikiwater.fr
+	Linkedin : https://www.linkedin.com/in/benoit-flicoteaux-9b10b3175/
+	From:Saint-Witz, Ile de France, France
+
+	Web designer: Benoit Flicoteaux
+	Contact: contact [at] wikiwater.fr
+	Linkedin : https://www.linkedin.com/in/benoit-flicoteaux-9b10b3175/
+	From:Saint-Witz, Ile de France, France
+
